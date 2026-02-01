@@ -9,4 +9,6 @@ This project demonstrates the use of Git commands, branching, and merging.
 - `git add`
 - `git commit`
 - `git merge`
-Conflict line from main
+
+## Conflict Resolution Example:
+This section shows how we resolved a merge conflict between the main branch and the conflict-test branch.
