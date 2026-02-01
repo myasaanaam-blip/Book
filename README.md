@@ -9,3 +9,4 @@ This project demonstrates the use of Git commands, branching, and merging.
 - `git add`
 - `git commit`
 - `git merge`
+Conflict line from main
